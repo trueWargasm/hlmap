@@ -1,0 +1,89 @@
+{
+"classname" "worldspawn"
+"defaultteam" "0"
+"newunit" "0"
+"gametitle" "0"
+"startdark" "0"
+"MaxRange" "4096"
+"sounds" "1"
+"mapversion" "220"
+"wad" "/Program Files (x86)/Steam/steamapps/common/Half-Life/valve/halflife.wad;/Program Files (x86)/Steam/steamapps/common/Half-Life/valve/liquids.wad;/Program Files (x86)/Steam/steamapps/common/Half-Life/valve/xeno.wad;/Program Files (x86)/Steam/steamapps/common/Half-Life/valve/decals.wad;/Program Files (x86)/Steam/steamapps/common/Half-Life/valve/zhlt.wad;/Program Files (x86)/Steam/steamapps/common/Half-Life/cstrike/ajawad.wad;/Program Files (x86)/Steam/steamapps/common/Half-Life/cstrike/cached.wad;/Program Files (x86)/Steam/steamapps/common/Half-Life/cstrike/chateau.wad;/Program Files (x86)/Steam/steamapps/common/Half-Life/cstrike/cs_747.wad;/Program Files (x86)/Steam/steamapps/common/Half-Life/cstrike/cs_assault.wad;/Program Files (x86)/Steam/steamapps/common/Half-Life/cstrike/cs_bdog.wad;/Program Files (x86)/Steam/steamapps/common/Half-Life/cstrike/cs_cbble.wad;/Program Files (x86)/Steam/steamapps/common/Half-Life/cstrike/cs_dust.wad;/Program Files (x86)/Steam/steamapps/common/Half-Life/cstrike/cs_havana.wad;/Program Files (x86)/Steam/steamapps/common/Half-Life/cstrike/cs_office.wad;/Program Files (x86)/Steam/steamapps/common/Half-Life/cstrike/cstraining.wad;/Program Files (x86)/Steam/steamapps/common/Half-Life/cstrike/cstrike.wad;/Program Files (x86)/Steam/steamapps/common/Half-Life/cstrike/de_airstrip.wad;/Program Files (x86)/Steam/steamapps/common/Half-Life/cstrike/de_aztec.wad;/Program Files (x86)/Steam/steamapps/common/Half-Life/cstrike/de_piranesi.wad;/Program Files (x86)/Steam/steamapps/common/Half-Life/cstrike/de_storm.wad;/Program Files (x86)/Steam/steamapps/common/Half-Life/cstrike/de_vertigo.wad;/Program Files (x86)/Steam/steamapps/common/Half-Life/cstrike/decals.wad;/Program Files (x86)/Steam/steamapps/common/Half-Life/cstrike/itsitaly.wad;/Program Files (x86)/Steam/steamapps/common/Half-Life/cstrike/n0th1ng.wad;/Program Files (x86)/Steam/steamapps/common/Half-Life/cstrike/prodigy.wad;/Program Files (x86)/Steam/steamapps/common/Half-Life/cstrike/torntextures.wad;/Program Files (x86)/Steam/steamapps/common/Half-Life/cstrike/tswad.wad"
+"_generator" "J.A.C.K. 1.1.1262 (vpHalfLife)"
+{
+( 720 256 160 ) ( 720 256 0 ) ( 720 -1280 160 ) NULL [ 0 1 0 -0 ] [ 0 0 -1 0 ] 0 1 1
+( 688 -1280 160 ) ( 688 -1280 0 ) ( 688 256 160 ) C1A0_WX [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 720 -1280 160 ) ( 720 -1280 0 ) ( 688 -1280 160 ) NULL [ 1 0 0 -0 ] [ 0 0 -1 0 ] 0 1 1
+( 688 256 160 ) ( 688 256 0 ) ( 720 256 160 ) NULL [ 1 0 0 -0 ] [ 0 0 -1 0 ] 0 1 1
+( 720 -1280 160 ) ( 688 -1280 160 ) ( 720 256 160 ) NULL [ 1 0 0 -0 ] [ 0 -1 0 0 ] 0 1 1
+( 688 256 0 ) ( 688 -1280 0 ) ( 720 256 0 ) NULL [ 1 0 0 -0 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( 688 288 160 ) ( 688 288 0 ) ( 688 256 160 ) NULL [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -464 256 160 ) ( -464 256 0 ) ( -464 288 160 ) NULL [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 688 256 160 ) ( 688 256 0 ) ( -464 256 160 ) C1A0_WX [ 1 0 0 46 ] [ 0 0 -1 0 ] 0 1 1
+( -464 288 160 ) ( -464 288 0 ) ( 688 288 160 ) NULL [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 688 256 160 ) ( -464 256 160 ) ( 688 288 160 ) NULL [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -464 288 0 ) ( -464 256 0 ) ( 688 288 0 ) NULL [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( 688 256 0 ) ( 688 256 -32 ) ( 688 -1280 0 ) NULL [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -464 -1280 0 ) ( -464 -1280 -32 ) ( -464 256 0 ) NULL [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 688 -1280 0 ) ( 688 -1280 -32 ) ( -464 -1280 0 ) NULL [ 1 0 0 -0 ] [ 0 0 -1 0 ] 0 1 1
+( -464 256 0 ) ( -464 256 -32 ) ( 688 256 0 ) NULL [ 1 0 0 -0 ] [ 0 0 -1 0 ] 0 1 1
+( 688 -1280 0 ) ( -464 -1280 0 ) ( 688 256 0 ) CSTLCNCR [ 1 0 0 -0 ] [ 0 -1 0 0 ] 0 1 1
+( -464 256 -32 ) ( -464 -1280 -32 ) ( 688 256 -32 ) NULL [ 1 0 0 -0 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( -496 -1280 160 ) ( -496 -1280 0 ) ( -496 256 160 ) C1A0_WX [ 0 1 0 -0 ] [ 0 0 -1 -16 ] 0 1 1
+( -464 256 160 ) ( -464 256 0 ) ( -464 -1280 160 ) C1A0_WX [ 0 1 0 0 ] [ 0 0 -1 -0 ] 0 1 1
+( -496 256 160 ) ( -496 256 0 ) ( -464 256 160 ) NULL [ 1 0 0 0 ] [ 0 0 -1 -0 ] 0 1 1
+( -464 -1280 160 ) ( -464 -1280 0 ) ( -496 -1280 160 ) NULL [ 1 0 0 0 ] [ 0 0 -1 -0 ] 0 1 1
+( -496 256 0 ) ( -496 -1280 0 ) ( -464 256 0 ) NULL [ 1 0 0 0 ] [ 0 -1 0 -0 ] 0 1 1
+( -464 -1280 160 ) ( -496 -1280 160 ) ( -464 256 160 ) NULL [ 1 0 0 0 ] [ 0 -1 0 -0 ] 0 1 1
+}
+{
+( -464 -1280 192 ) ( -464 -1280 160 ) ( -464 256 192 ) NULL [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 688 256 192 ) ( 688 256 160 ) ( 688 -1280 192 ) NULL [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -464 256 192 ) ( -464 256 160 ) ( 688 256 192 ) NULL [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 688 -1280 192 ) ( 688 -1280 160 ) ( -464 -1280 192 ) NULL [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -464 256 160 ) ( -464 -1280 160 ) ( 688 256 160 ) C2A4E_W1 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 688 -1280 192 ) ( -464 -1280 192 ) ( 688 256 192 ) NULL [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( 688 -1280 160 ) ( 688 -1280 0 ) ( 688 -1296 160 ) NULL [ 0 1 0 -17 ] [ 0 0 -1 0 ] 0 1 1
+( -464 -1296 160 ) ( -464 -1296 0 ) ( -464 -1280 160 ) NULL [ 0 1 0 -17 ] [ 0 0 -1 0 ] 0 1 1
+( 688 -1296 160 ) ( 688 -1296 0 ) ( -464 -1296 160 ) C1A0_WX [ 1 0 0 -17 ] [ 0 0 -1 0 ] 0 1 1
+( -464 -1280 160 ) ( -464 -1280 0 ) ( 688 -1280 160 ) C1A0_WX [ 1 0 0 -17 ] [ 0 0 -1 0 ] 0 1 1
+( 688 -1296 160 ) ( -464 -1296 160 ) ( 688 -1280 160 ) NULL [ 1 0 0 -17 ] [ 0 -1 0 0 ] 0 1 1
+( -464 -1280 0 ) ( -464 -1296 0 ) ( 688 -1280 0 ) NULL [ 1 0 0 -17 ] [ 0 -1 0 0 ] 0 1 1
+}
+}
+{
+"classname" "light"
+"_falloff" "0"
+"_fade" "1.0"
+"style" "0"
+"_light" "255 255 128 200"
+"light" "255 255 128 200"
+"origin" "0 0 128"
+}
+{
+"classname" "info_player_deathmatch"
+"angles" "0 0 0"
+"origin" "-248 -192 36"
+}
+{
+"classname" "info_player_deathmatch"
+"angles" "0 0 0"
+"origin" "243 168 24"
+}
+{
+"classname" "info_player_deathmatch"
+"angles" "0 95 0"
+"origin" "339 -32 24"
+}
+{
+"classname" "info_player_deathmatch"
+"angles" "0 0 0"
+"origin" "305 64 24"
+}
